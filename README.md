@@ -1,2 +1,3 @@
 # file-organizer
-Organizes file from size, alphabetically, and backup into zip.
+AHK program automation.
+Organizes files in folder by size, alphabetically, and backup into zip.
